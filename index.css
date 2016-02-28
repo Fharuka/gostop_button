@@ -1,0 +1,30 @@
+.go {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #ffffff;
+	padding: 6px 13px;
+	background: -moz-linear-gradient(
+		top,
+		#ff907f 0%,
+		#ff907f);
+	background: -webkit-gradient(
+		linear, left top, left bottom,
+		from(#ff907f),
+		to(#ff907f));
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	border-radius: 0px;
+	border: 0px solid #000000;
+	-moz-box-shadow:
+		0px 0px 0px rgba(000,000,000,0),
+		inset 0px 0px 1px rgba(199,022,199,0);
+	-webkit-box-shadow:
+		0px 0px 0px rgba(000,000,000,0),
+		inset 0px 0px 1px rgba(199,022,199,0);
+	box-shadow:
+		0px 0px 0px rgba(000,000,000,0),
+		inset 0px 0px 1px rgba(199,022,199,0);
+	text-shadow:
+		0px 0px 20px rgba(000,000,000,0),
+		0px 0px 0px rgba(240,240,240,0);
+}
